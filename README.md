@@ -1,2 +1,6 @@
 # hr-attrition-analytics
-This dashboard helps HR and managers spot trouble early and act faster. Upload your HR CSV and get clear KPIs, easy slice-and-dice views (by department, role, or tenure), simple “why” explanations, fairness checks, and a one-click Excel summary. Most teams cut their weekly reporting time by ~40%
+HR Attrition Analytics
+
+See where attrition is rising, why it’s happening, and what to do next—without living in Excel.
+
+A human-friendly dashboard for HR and People Analytics. Upload (or ship with) a CSV and get at-a-glance KPIs, slice-and-dice hotspots, explainable drivers, fairness checks, and a one-click Excel export. Teams typically cut weekly reporting time by ~40%.
