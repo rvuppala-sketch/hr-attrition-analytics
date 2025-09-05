@@ -15,7 +15,7 @@ DEFAULT_ATTRITION_RATE    = 0.161      # 16.1% fallback
 # ---- Project website / case study metadata ----
 REPORTING_EFFICIENCY_IMPROVEMENT = 40  # % vs Excel
 TOP_TURNOVER_FACTORS = ["OverTime", "JobRole", "YearsAtCompany", "BusinessTravel", "MonthlyIncome"]
-REPO_URL = "https://github.com/<you>/hr-analytics-dashboard"
+REPO_URL = "https://github.com/rvuppala-sketch/hr-attrition-analytics"
 DEMO_URL = "https://<your-heroku-or-streamlit-url>"
 
 import os
